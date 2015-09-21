@@ -1,1 +1,3 @@
 build/
+./publish_to_gh-pages.sh
+.token
