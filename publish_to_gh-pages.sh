@@ -16,8 +16,8 @@ echo "3. copy HTML and deploy"
 cp -r ../build/. ./
 git add .
 git commit -m "Published slides." > /dev/null
-git push
+# git push
 
-echo "4. clean up"
-cd ..
-rm -rf $FOLDER
+# echo "4. clean up"
+# cd ..
+# rm -rf $FOLDER
