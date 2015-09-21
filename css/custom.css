@@ -33,3 +33,8 @@ i {
 .gettingstarted h3 {
   text-transform: none;
   font-size: 2.18em; }
+
+
+#were-hiring img {
+  width: 50%;
+}
