@@ -4,7 +4,7 @@ echo "1. build the presentation"
 prez > /dev/null
 
 echo "2. checkout and clean gh-pages"
-REPO=https://github.com/staylorwr/ejr-twd-talk-slides.git
+REPO=git@github.com:staylorwr/ejr-twd-talk-slides.git
 BRANCH=gh-pages
 FOLDER=$BRANCH
 
