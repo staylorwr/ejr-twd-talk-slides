@@ -1,0 +1,8 @@
+{
+  "title": "Ember, JSON and Rails",
+  "author": "Scott Taylor",
+  "description": "Presentation about Ember 2, JSONAPI Spec and Rails for Tulsa Web Dev",
+  "theme": "league",
+  "highlightTheme": "js",
+  "printTheme": "simple"
+}

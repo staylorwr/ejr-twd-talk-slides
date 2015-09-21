@@ -1,0 +1,1 @@
+JSON API is a specification for how a client should request that resources be fetched or modified, and how a server should respond to those requests.
